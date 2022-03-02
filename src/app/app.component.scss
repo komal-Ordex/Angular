@@ -1,0 +1,23 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 20px;
+  width: 100%;
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.mat-sort-header-content {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  color: black;
+}
+

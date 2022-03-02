@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "cabbage",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 250,
+      "comment": "hiii",
+      "date": "2022-02-13T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "APPLE",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 343,
+      "comment": "er",
+      "date": "2022-02-15T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "mango",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 555,
+      "comment": "dd",
+      "date": "2022-03-11T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "nidhi",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 1222,
+      "comment": "hiiiii",
+      "date": "2025-07-16T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 7,
+      "comment": "gggg",
+      "date": "2022-03-02T18:30:00.000Z",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
